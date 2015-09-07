@@ -3,7 +3,7 @@ title: Print-n-Paste
 email: iiaranzadi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here.
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "/printnpaste" # the subpath of your site, e.g. /blog/
 url: "http://www.printnpaste.com/" # the base hostname & protocol for your site
 twitter_username: iaranzadi
 github_username:  inaki
